@@ -6,7 +6,7 @@
 克隆项目
 
 ```
-> $ git clone https://git.coding.net/canfoo/vote.git
+> $ git clone https://git.coding.net/canfoo/vote-development.git
 ```
 在vote目录下安装依赖包
 
